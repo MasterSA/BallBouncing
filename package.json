@@ -1,0 +1,17 @@
+{
+  "name": "ballbouncing",
+  "version": "1.0.0",
+  "description": "This is a game for bouncing ball",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Animation",
+    "Ball",
+    "and",
+    "Button"
+  ],
+  "author": "Aariz Rahman",
+  "license": "ISC"
+}
